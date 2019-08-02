@@ -17,6 +17,7 @@
 > 工具的版本看`package.json`
 
 ## 起步
+> [工程配置步骤移步wiki](https://github.com/betgar/typescript-babel-eslint/wiki/typescript-babel-eslint%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE%E6%AD%A5%E9%AA%A4)
 
 ### 前置条件
 > 先安装node环境, 建议使用nrm管理registry, npm安装。
