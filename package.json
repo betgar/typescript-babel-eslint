@@ -77,5 +77,6 @@
       "npm run lint",
       "git add"
     ]
-  }
+  },
+  "types": "./dist/index.d"
 }
